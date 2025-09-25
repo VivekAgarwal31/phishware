@@ -1,0 +1,3 @@
+/* Optional additional styles for the popup */
+:root { --brand: #0ea5e9; }
+#app h1 { color: var(--brand); font-size: 18px; margin: 0 0 8px; }

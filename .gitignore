@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Node/Extension
+node_modules/
+dist/
+*.log
+
+# Data/Models
+/data/*.csv
+/backend/models/*.pkl
